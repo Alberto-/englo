@@ -3,11 +3,11 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <wp:headInfo type="JS" info="entando-misc-jquery/jquery-1.10.0.min.js" />
 <wp:headInfo type="JS" info="entando-misc-bootstrap/bootstrap.min.js" />
-<script src="<wp:resourceURL />/static/js/plugins/jptrello/angular.min.js"></script>
-<script src="<wp:resourceURL />/static/js/plugins/jptrello/app.js"></script>
-<script src="<wp:resourceURL />/static/js/plugins/jptrello/services.js"></script>
+<script src="<wp:resourceURL />/plugins/jptrello/js/angular.min.js"></script>
+<script src="<wp:resourceURL />/plugins/jptrello/js/app.js"></script>
+<script src="<wp:resourceURL />/plugins/jptrello/js/services.js"></script>
 
-<link rel="stylesheet" type="text/css" href="<wp:cssURL />/plugins/jptrello/trello.css" />
+<!--<link rel="stylesheet" type="text/css" href="<wp:resourceURL />/plugins/jptrello/css/trello.css" />-->
 <link rel="stylesheet" href="<wp:cssURL />html5reset-1.6.1.css" media="screen" />
 <link rel="stylesheet" href="<wp:cssURL />master.css" media="screen" />
 <link rel="stylesheet" href="<wp:cssURL />IE_fix.css" media="screen" />
