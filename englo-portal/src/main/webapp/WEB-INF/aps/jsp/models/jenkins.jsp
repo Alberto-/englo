@@ -47,14 +47,6 @@
 
       <script type="text/javascript" src="<wp:resourceURL />static/js/main.js" ></script>
 
-      <script>
-         var url = '<wp:resourceURL />static/images/icons.svg';
-         var c = new XMLHttpRequest();
-         c.open('GET', url, false);
-         c.setRequestHeader('Content-Type', 'text/xml');
-         c.send();
-         document.body.insertBefore(c.responseXML.firstChild, document.body.firstChild)
-      </script>
 
       <script type="text/javascript" src="<wp:resourceURL />static/js/jquery.placeholder.js" ></script>
 

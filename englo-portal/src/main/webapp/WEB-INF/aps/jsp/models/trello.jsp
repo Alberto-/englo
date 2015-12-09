@@ -75,7 +75,7 @@
                   </a>
                </figure>
 
-               <div id="columnChild29189" class="flexChild">
+                  <div id="columnChild29189" class="flexChild">
                   <div id="accordion">
 
                      <h3 onclick="location.href = '<wp:url page="home_englo"/>';" class="non"><div class="icon_prod iconsvg ie_home_svg1">
